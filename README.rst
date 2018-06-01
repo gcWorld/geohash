@@ -1,3 +1,5 @@
+This fork has been updated with some of the pending merge requests of the original repository.
+
 =======
 Geohash
 =======
