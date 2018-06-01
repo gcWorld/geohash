@@ -2,7 +2,7 @@ This fork has been updated with some of the pending merge requests of the origin
 
 Installation
 ------------
-  ``pip install git+https://github.com/gcworld/geohash``
+``pip install git+https://github.com/gcworld/geohash``
 
 =======
 Geohash
@@ -44,7 +44,7 @@ this is just a co-incidence due to the precision of the Geohash and
 thus the number of bits used for the latitude and longitude encoding,
 respectively.
 
-Find neighbors:
+Find neighbors::
 
   >>> import Geohash
   >>> Geohash.neighbors('ezs42e44yx96')
