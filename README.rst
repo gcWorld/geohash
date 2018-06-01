@@ -1,7 +1,8 @@
 This fork has been updated with some of the pending merge requests of the original repository.
 
-### Installation
-  pip install git+https://github.com/gcworld/geohash
+Installation
+------------
+  ``pip install git+https://github.com/gcworld/geohash``
 
 =======
 Geohash
