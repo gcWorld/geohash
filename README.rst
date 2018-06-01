@@ -38,6 +38,12 @@ this is just a co-incidence due to the precision of the Geohash and
 thus the number of bits used for the latitude and longitude encoding,
 respectively.
 
+Find neighbors:
+
+  >>> import Geohash
+  >>> Geohash.neighbors('ezs42e44yx96')
+  ['ezs42e44yx99', 'ezs42e44yx9d', 'ezs42e44yx9e', 'ezs42e44yx93', 'ezs42e44yx96', 'ezs42e44yx97', 'ezs42e44yx91', 'ezs42e44yx94', 'ezs42e44yx95']
+
 Download
 ========
 
